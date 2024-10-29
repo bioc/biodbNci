@@ -1,7 +1,7 @@
 Package: biodbNci
 Title: biodbNci, a library for connecting to biodbNci, a library for connecting
     to the National Cancer Institute (USA) CACTUS Database
-Version: 1.9.0
+Version: 1.10.0
 Authors@R: 
     c(person(given = "Pierrick",
              family = "Roger",
