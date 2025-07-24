@@ -1,7 +1,7 @@
 Package: biodbNci
 Title: biodbNci, a library for connecting to biodbNci, a library for connecting
     to the National Cancer Institute (USA) CACTUS Database
-Version: 1.13.0
+Version: 1.13.1
 Authors@R: 
     c(person(given = "Pierrick",
              family = "Roger",
@@ -45,3 +45,5 @@ Collate:
     'NciCactusEntry.R'
     'RcppExports.R'
     'package.R'
+    'zzz.R'
+PackageStatus: Deprecated
